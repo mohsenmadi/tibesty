@@ -15,8 +15,9 @@ In the package.json file, you should find two targets, run then in sequence:
 In `apps/host/src/index.html`, by simply toggling the value of the `dir` attribute between `ltr` and `rtl`, you should see the entire app displayed in English or in Arabic, respectively.
 
 Here are a couple of images with some mock data when the app is running.
-In English
+
+In English:
 ![img_1.png](img_1.png)
 
-In Arabic
+In Arabic:
 ![img_3.png](img_3.png)
