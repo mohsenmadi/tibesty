@@ -3,6 +3,9 @@
 This project implements a monorepo app using module federation, micro frontends and remote apps to highlight the power of these concepts together into one project.
 The project uses Angular 14, Angular Material and a NestJS server.
 
+## Building
+By running `npm i` at the root folder, a `node_modules` folder which contains all the source packages needed by the project is generated.
+
 ## Running
 In the package.json file, you should find two targets, run then in sequence:
 1. `npm run start:api` to start the NestJs server
